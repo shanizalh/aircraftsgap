@@ -16,9 +16,16 @@ How to use:
 
 Put all the files in one directory, and run the python/jupyter script. The output file will be generated as .xlsx file.
 
+
 Resulted Data Frame:
+
 Fleet | Floc | Message | type (R/A/G) | Error number | Functional identifier (FID) | Message text | Material | Sequence
 --- | --- | --- | --- | --- | --- | --- | --- | ---
 
+
+
 Feel free to download, modify, or use for your own work. Or you can raise new issue or make pull requests.
+
+Licensed under MIT License.
+
 Thank you.
