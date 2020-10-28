@@ -17,7 +17,7 @@ How to use:
 Put all the files in one directory, and run the python/jupyter script. The output file will be generated as .xlsx file.
 
 
-Resulted Data Frame:
+Resulted Data Frame header:
 
 Fleet | Floc | Message | type (R/A/G) | Error number | Functional identifier (FID) | Message text | Material | Sequence
 --- | --- | --- | --- | --- | --- | --- | --- | ---
