@@ -18,6 +18,7 @@ Put all the files in one directory, and run the python/jupyter script. The outpu
 
 Resulted Data Frame:
 Fleet | Floc | Message | type (R/A/G) | Error number | Functional identifier (FID) | Message text | Material | Sequence
+--- | --- | --- | --- | --- | --- | --- | --- | ---
 
 Feel free to download, modify, or use for your own work. Or you can raise new issue or make pull requests.
 Thank you.
