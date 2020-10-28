@@ -8,9 +8,9 @@ The code has been slightly modified and 1 additional file has been omitted as it
 
 Files in this repo:
 1. 8 example source files (output from SAP sgap system for each aircraft registration)
-2. raw python script file
-3. jupyter notebook file to see the data frame
-4. 1 example output file
+2. raw python script file [(Click Here)](aircraftsgap.py)
+3. jupyter notebook file to see the data frame [(Click Here)](aircraftsgap.ipynb)
+4. 1 example output file [(Click Here)](zrccm2_20200709.xlsx)
 
 How to use:
 
