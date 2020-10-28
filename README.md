@@ -1,4 +1,4 @@
-# aircraftsgap
+# Aircraft sgap
 
 This is a simple source code used to process aircraft sgap (structure gap) data in my company.
 
@@ -13,7 +13,11 @@ Files in this repo:
 4. 1 example output file
 
 How to use:
+
 Put all the files in one directory, and run the python/jupyter script. The output file will be generated as .xlsx file.
+
+Resulted Data Frame:
+Fleet | Floc | Message | type (R/A/G) | Error number | Functional identifier (FID) | Message text | Material | Sequence
 
 Feel free to download, modify, or use for your own work. Or you can raise new issue or make pull requests.
 Thank you.
