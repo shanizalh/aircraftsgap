@@ -1,0 +1,59 @@
+Fleet	Floc	Message type (R/A/G)	Error number	Functional identifier (FID)	Message text	Material	Sequence
+330-200	PK-GPM	R	041	2163_VLV_TRIM	Structure gap at Functional Location PK-GPM.21.63.51.TV	1320A0000-02:F1958	    1
+330-200	PK-GPM	R	041	2163_VLV_TRIM	Structure gap at Functional Location PK-GPM.21.63.51.TV	1320A0000-02:F1958	    2
+330-200	PK-GPM	R	041	242151_LRU_IDG	Structure gap at Equipment 12012846	752168B:99167	   17
+330-200	PK-GPM	R	033	256241_SLIDE_RAFT_DOOR_1_4	3 object(s) found below superior object PK-GPM.25.62.41.SR.01.RH/PK-GPM.25.62.41.SR.04.LH/. Expected quantity is 4 EA		    3
+330-200	PK-GPM	R	041	25_ELT_PORTABLE	Structure gap at Functional Location PK-GPM.25.65.00.EL.AF	01N65920:F6614	   13
+330-200	PK-GPM	R	041	25_ELT_PORTABLE	Structure gap at Functional Location PK-GPM.25.65.00.EL.FW	01N65920:F6614	   14
+330-200	PK-GPM	R	041	279434_FCSC	Structure gap at Functional Location PK-GPM.27.94.34.SC	LA2B00300A40000:F6198	    4
+330-200	PK-GPM	A	042	321111_LLP_RETRACTION_ACT_BEARING	No corresponding technical object can be found for function identifier		   18
+330-200	PK-GPM	A	042	321111_LLP_RETRACTION_ACT_BODY	No corresponding technical object can be found for function identifier		   19
+330-200	PK-GPM	A	042	321111_LLP_RETRACTION_ACT_CYLINDER_NLG	No corresponding technical object can be found for function identifier		   20
+330-200	PK-GPM	A	042	321111_LLP_RETRACTION_ACT_EYE_END	No corresponding technical object can be found for function identifier		   21
+330-200	PK-GPM	A	042	321111_LLP_RETRACTION_ACT_PIN_AIRFRAME	No corresponding technical object can be found for function identifier		   22
+330-200	PK-GPM	A	042	321111_LLP_RETRACTION_ACT_PIN_NLG	No corresponding technical object can be found for function identifier		   23
+330-200	PK-GPM	A	042	321111_LLP_RETRACTION_ACT_PLUG	No corresponding technical object can be found for function identifier		   24
+330-200	PK-GPM	A	042	321111_LLP_RETRACTION_ACT_SLIDING_ROD	No corresponding technical object can be found for function identifier		   25
+330-200	PK-GPM	A	042	322111_LLP_DRAG_STAY_CENTER_PIN	No corresponding technical object can be found for function identifier		   26
+330-200	PK-GPM	A	042	322111_LLP_DRAG_STAY_LOWER_ARM	No corresponding technical object can be found for function identifier		   27
+330-200	PK-GPM	A	042	322111_LLP_DRAG_STAY_UPPER_ARM	No corresponding technical object can be found for function identifier		   28
+330-200	PK-GPM	A	042	322111_LLP_DRAG_STAY_UPPER_PIN	No corresponding technical object can be found for function identifier		   29
+330-200	PK-GPM	A	042	322111_LLP_LOCK_LINK_CENTER_PIN	No corresponding technical object can be found for function identifier		   30
+330-200	PK-GPM	A	042	322111_LLP_LOCK_LINK_UPPER_ARM	No corresponding technical object can be found for function identifier		   31
+330-200	PK-GPM	A	042	322111_LLP_LOWER_TORQUE_LINK	No corresponding technical object can be found for function identifier		   32
+330-200	PK-GPM	A	042	322111_LLP_LOWER_TORQUE_LINK_PIN	No corresponding technical object can be found for function identifier		   33
+330-200	PK-GPM	A	042	322111_LLP_MAIN_FITTING	No corresponding technical object can be found for function identifier		   34
+330-200	PK-GPM	A	042	322111_LLP_MAIN_FITTING_HINGE_PIN	No corresponding technical object can be found for function identifier		   35
+330-200	PK-GPM	A	042	322111_LLP_MAIN_FITTING_PIN_01	No corresponding technical object can be found for function identifier		   36
+330-200	PK-GPM	A	042	322111_LLP_MAIN_FITTING_PIN_02	No corresponding technical object can be found for function identifier		   37
+330-200	PK-GPM	A	042	322111_LLP_PINTLE_PIN	No corresponding technical object can be found for function identifier		   38
+330-200	PK-GPM	A	042	322111_LLP_RESTRICTOR	No corresponding technical object can be found for function identifier		   39
+330-200	PK-GPM	A	042	322111_LLP_RESTRICTOR_VALVE	No corresponding technical object can be found for function identifier		   40
+330-200	PK-GPM	A	042	322111_LLP_SLIDING_TUBE	No corresponding technical object can be found for function identifier		   41
+330-200	PK-GPM	A	042	322111_LLP_SUPPORT_TUBE	No corresponding technical object can be found for function identifier		   42
+330-200	PK-GPM	A	042	322111_LLP_TORQUE_LINK_APEX_PIN	No corresponding technical object can be found for function identifier		   43
+330-200	PK-GPM	A	042	322111_LLP_TURNING_SLEEVE	No corresponding technical object can be found for function identifier		   44
+330-200	PK-GPM	A	042	322111_LLP_UPPER_FLANGE	No corresponding technical object can be found for function identifier		   45
+330-200	PK-GPM	A	042	322111_LLP_UPPER_TORQUE_LINK	No corresponding technical object can be found for function identifier		   46
+330-200	PK-GPM	A	042	322111_LLP_UPPER_TORQUE_LINK_PIN	No corresponding technical object can be found for function identifier		   47
+330-200	PK-GPM	R	041	322111_NLG	Structure gap at Functional Location PK-GPM.32.21.11.NG	D23581100-20:F0189	   15
+330-200	PK-GPM	A	042	322116_DRAGSTAY	No corresponding technical object can be found for function identifier		   48
+330-200	PK-GPM	A	042	323122_LRU_ACT_NOSE_GEAR	No corresponding technical object can be found for function identifier		   49
+330-200	PK-GPM	R	041	323171_GA	Structure gap at Functional Location PK-GPM.32.31.71.LC	007LG037E:K8081	    5
+330-200	PK-GPM	R	041	3231_LG_LVR_CTRL	Structure gap at Functional Location PK-GPM.32.31.11.CL	215TS07Y00:F0214	   16
+330-200	PK-GPM	A	042	325112_LRU_BOX_ELEC	No corresponding technical object can be found for function identifier		   50
+330-200	PK-GPM	A	042	325119_NW_SENSOR	No corresponding technical object can be found for function identifier		   51
+330-200	PK-GPM	A	042	325141_LRU_CTRL_GEARBOX	No corresponding technical object can be found for function identifier		   52
+330-200	PK-GPM	A	042	325151_LRU_VALVE_CTRL_SERVO_LVDT	No corresponding technical object can be found for function identifier		   53
+330-200	PK-GPM	R	041	335138_EMER_POWER_SUPPLY	Structure gap at Functional Location PK-GPM.33.51.38.EP	3214-62-10:D1347	    6
+330-200	PK-GPM	R	041	341115_PITOT_PROBE	Structure gap at Functional Location PK-GPM.34.11.15.PP.02	0851MC:59885	    7
+330-200	PK-GPM	R	041	34_MODULE_AIR_DATA	Structure gap at Functional Location PK-GPM.34.11.17.AT.01	PG1152BC02:58960	    8
+330-200	PK-GPM	R	041	34_RADIO_ALT_TRANS	Structure gap at Functional Location PK-GPM.34.42.33.RT.01	9599-607-19504:F0057	    9
+330-200	PK-GPM	A	042	361111_LRU_CHECK_VALVE_IP_BLEED	No corresponding technical object can be found for function identifier		   54
+330-200	PK-GPM	A	042	361152_LRU_VLV_BLEED	No corresponding technical object can be found for function identifier		   55
+330-200	PK-GPM	R	041	52_SELECTOR_VLV	Structure gap at Functional Location PK-GPM.52.36.15.MV.AF	1567A0000-01:D9893	   10
+330-200	PK-GPM	R	041	720000_ENG	Structure gap at Functional Location PK-GPM.72.00.00.EN.LH	TRENT772B-60:K0378	   11
+330-200	PK-GPM	A	042	731341_LRU_FUEL_NOZZLE	No corresponding technical object can be found for function identifier		   56
+330-200	PK-GPM	A	042	732136_LRU_OVERSPEED_PROT	No corresponding technical object can be found for function identifier		   57
+330-200	PK-GPM	R	033	753354_LRU_VSV_ACTUATOR	1 object(s) found below superior object 12012846. Expected quantity is 2 EA		   12
+330-200	PK-GPM	A	042	801151_LRU_VLV_STARTER_CNTRL	No corresponding technical object can be found for function identifier		   58
