@@ -1,0 +1,95 @@
+Fleet	Floc	Message type (R/A/G)	Error number	Functional identifier (FID)	Message text	Material	Sequence
+CRJ1000	PK-GRE	R	041	212393_FAN_EXHAUST_LAV_GALLEY	Structure gap at Functional Location PK-GRE.21.25.01.FE.RH.01	AE0607B01:F4957	   30
+CRJ1000	PK-GRE	R	041	212393_FAN_EXHAUST_LAV_GALLEY	Structure gap at Functional Location PK-GRE.21.25.01.FE.RH.02	AE0607B01:F4957	   31
+CRJ1000	PK-GRE	R	041	213201_VALVE_OUTFLOW	Structure gap at Functional Location PK-GRE.21.32.01.VO	GG670-98003-5:F1958	   32
+CRJ1000	PK-GRE	R	041	215108_AIR_CYCLE_MACHINE	Structure gap at Functional Location PK-GRE.21.51.08.MA.LH	3478A020001:F1958	    1
+CRJ1000	PK-GRE	R	041	215110_SENSOR_TEMP	Structure gap at Functional Location PK-GRE.21.51.10.ST.LH	GG436-2005-3:F1958	    2
+CRJ1000	PK-GRE	R	041	215120_VALVE_TEMP_CONTROL	Structure gap at Functional Location PK-GRE.21.51.20.VT.LH	GG670-95010-3:88308	    3
+CRJ1000	PK-GRE	R	041	231203_COUPLER_HF_ANTENNA	Structure gap at Functional Location PK-GRE.23.12.03.CH	685-0350-002:4V792	   33
+CRJ1000	PK-GRE	R	041	233110_HANDSET_ATTENDANT	Structure gap at Functional Location PK-GRE.23.31.10.HA.01	5583-1:30242	    4
+CRJ1000	PK-GRE	R	041	235104_PANEL_AUDIO_CTRL	Structure gap at Functional Location PK-GRE.23.51.04.PA.RH.01	5361-1-5:88308	    5
+CRJ1000	PK-GRE	R	041	237100_RIPS_TYPE_II_NICAD	Structure gap at Functional Location PK-GRE.23.71.00.RN.LH	100-2010-100:06141	   34
+CRJ1000	PK-GRE	R	041	241101_GEN_INTEGRATED_DRIVE	Structure gap at Functional Location PK-GRE.24.11.01.GI.LH	766277B:99167	   35
+CRJ1000	PK-GRE	R	041	241101_GEN_INTEGRATED_DRIVE	Structure gap at Functional Location PK-GRE.24.11.01.GI.RH	766277B:99167	   36
+CRJ1000	PK-GRE	R	041	241107_GEN_CONTROL_UNIT_IDG	Structure gap at Functional Location PK-GRE.24.11.07.UC.LH.01	766283C:99167	    6
+CRJ1000	PK-GRE	R	041	241107_GEN_CONTROL_UNIT_IDG	Structure gap at Functional Location PK-GRE.24.11.07.UC.RH	766283C:99167	    7
+CRJ1000	PK-GRE	A	042	242201_LRU_GENERATOR	No corresponding technical object can be found for function identifier		   65
+CRJ1000	PK-GRE	R	041	243203_BATT_APU_MODEL_40178	Structure gap at Functional Location PK-GRE.24.32.03.BA.RH	024453-000:88308	   37
+CRJ1000	PK-GRE	R	041	251101_SEAT_PILOT	Structure gap at Functional Location PK-GRE.25.11.01.SP.LH	1405-03SS111AA:88308	   38
+CRJ1000	PK-GRE	A	042	256202_LRU_BATTERY_ELT	No corresponding technical object can be found for function identifier		   60
+CRJ1000	PK-GRE	R	041	256202_MAIN_ASSY_ELT	Structure gap at Functional Location PK-GRE.25.62.02.ME.RH	453-5000:60253	   40
+CRJ1000	PK-GRE	R	041	25_ELT_FIX	Structure gap at Functional Location PK-GRE.25.61.01.EL.LH	S1823502-03:FAU27	   39
+CRJ1000	PK-GRE	R	041	261404_SENSOR_TEMP_FIRE_DET	Structure gap at Functional Location PK-GRE.26.14.04.ST	377-02836:58880	   41
+CRJ1000	PK-GRE	R	041	26_FIREX_BCF	Structure gap at Functional Location PK-GRE.26.23.01.EF.CP	25N69953:36576	    8
+CRJ1000	PK-GRE	R	033	272165_RCU_RUDDER_CTRL_UNIT	2 object(s) found below superior object PK-GRE.27.21.00.RR.LH.01/PK-GRE.27.21.00.RR.LH.02. Expected quantity is 3 EA		    9
+CRJ1000	PK-GRE	R	041	273505_SENSOR_ANGLE_OF_ATTACK	Structure gap at Functional Location PK-GRE.27.35.05.SA.RH	C16258AB:88308	   43
+CRJ1000	PK-GRE	R	041	273505_SENSOR_ANGLE_OF_ATTACK	Structure gap at Functional Location PK-GRE.27.35.05.SA.LH	C16258AB:88308	   42
+CRJ1000	PK-GRE	R	041	276105_SSCU	Structure gap at Functional Location PK-GRE.27.61.05.SS.LH	C13045CA02:F9111	   44
+CRJ1000	PK-GRE	R	041	276105_SSCU	Structure gap at Functional Location PK-GRE.27.61.05.SS.RH	C13045CA02:F9111	   45
+CRJ1000	PK-GRE	R	041	278103_SLAT_BPSU	Structure gap at Functional Location PK-GRE.27.81.03.BP.RH	1713346C:99167	   10
+CRJ1000	PK-GRE	R	041	291110_GAUGE_AIR_PRESS_IND	Structure gap at Functional Location PK-GRE.29.11.10.GA.02	GP15-38-1:88308	   11
+CRJ1000	PK-GRE	R	041	291132_RESERVOIR_HYD_SYS2	Structure gap at Functional Location PK-GRE.29.11.32.RH.RH	960449-1:93835	   46
+CRJ1000	PK-GRE	R	041	301202_VALVE_WAI_MOD_AND_SO	Structure gap at Functional Location PK-GRE.30.12.02.VW.RH	GG670-80003-3:F1958	   13
+CRJ1000	PK-GRE	R	041	301212_AILC	Structure gap at Functional Location PK-GRE.30.12.12.CA	GG698-80012-3:3AB48	   47
+CRJ1000	PK-GRE	R	041	302201_VALVE_SHUTOFF_CAI	Structure gap at Functional Location PK-GRE.30.22.01.VS.LH	540-1148-5:99193	   48
+CRJ1000	PK-GRE	R	041	302201_VALVE_SHUTOFF_CAI	Structure gap at Functional Location PK-GRE.30.22.01.VS.RH	540-1148-5:99193	   49
+CRJ1000	PK-GRE	R	041	312101_CLOCK_DIGITAL	Structure gap at Functional Location PK-GRE.31.21.01.CD.LH	APE4190-032:F0479	   14
+CRJ1000	PK-GRE	R	041	321109_LLP_PISTON_AXLE_ASSY	Structure gap at Equipment 12073005	55203-1:02121	   15
+CRJ1000	PK-GRE	R	041	322116_LLP_ARM_ASSY_UPR_TORQUE_NLG	Structure gap at Equipment 12048422	52115-3:02121	   50
+CRJ1000	PK-GRE	R	041	322118_LLP_ARM_ASSY_LWR_TORQUE_NLG	Structure gap at Equipment 12048422	52117-3:02121	   51
+CRJ1000	PK-GRE	R	041	324316_ACCUMULATOR_HYDRAULIC	Structure gap at Functional Location PK-GRE.32.43.16.HY.LH	90006691:0B9R9	   16
+CRJ1000	PK-GRE	R	041	324701_TRANSDUCER_PRESSURE	Structure gap at Functional Location PK-GRE.32.47.01.TP	APTE-207-1000-4000SG:34345	   12
+CRJ1000	PK-GRE	R	033	325150_MODULE_STEERING_CONTROL	2 object(s) found below superior object PK-GRE.32.51.50.MS. Expected quantity is 1 EA		   54
+CRJ1000	PK-GRE	R	041	325150_MODULE_STEERING_CONTROL	Structure gap at Functional Location PK-GRE.32.51.50.MS	53000-5:02121	   53
+CRJ1000	PK-GRE	R	041	325150_MODULE_STEERING_CONTROL	Structure gap at Functional Location PK-GRE.32.51.50.MS	53000-5:02121	   52
+CRJ1000	PK-GRE	R	041	341104_PORT_PRESSURE_STATIC_LH	Structure gap at Functional Location PK-GRE.34.11.04.PP.LH	ST314-2L:70134	   55
+CRJ1000	PK-GRE	R	041	341201_INDICTR_INTGRTD_STNB	Structure gap at Functional Location PK-GRE.34.12.01.II.LH	C16786CA01:F9111	   56
+CRJ1000	PK-GRE	R	041	34_EGPWC	Structure gap at Functional Location PK-GRE.34.42.01.GE.LH	BBDREF001873617:97896	   57
+CRJ1000	PK-GRE	R	041	34_RCV_VOR_ILS_MKR	Structure gap at Functional Location PK-GRE.34.51.01.RV.LH	822-1465-001:4V792	   17
+CRJ1000	PK-GRE	R	041	361201_LRU_PRSOV	Structure gap at Functional Location PK-GRE.36.12.01.VP.LH.UP	GG670-80002-7:F1958	   18
+CRJ1000	PK-GRE	R	041	361205_LRU_HPRSOV	Structure gap at Functional Location PK-GRE.36.12.05.VH.LH.UP	GG670-80001-3:F1958	   19
+CRJ1000	PK-GRE	R	041	381003_CONTROLLER	Structure gap at Functional Location PK-GRE.38.10.03.CT.RH	5E2621-4:0AJJ0	   58
+CRJ1000	PK-GRE	R	041	383211_DRAIN_MAST_HEATED	Structure gap at Functional Location PK-GRE.38.32.11.DH.01	4E3264-4:0AJJ0	   20
+CRJ1000	PK-GRE	A	042	491416_LRU_ACTUATOR_LINEAR	No corresponding technical object can be found for function identifier		   61
+CRJ1000	PK-GRE	A	042	491429_LRU_HARNESS_ADAPTOR_RVDT	No corresponding technical object can be found for function identifier		   66
+CRJ1000	PK-GRE	A	042	491501_LRU_WIRING_HARNESS	No corresponding technical object can be found for function identifier		   67
+CRJ1000	PK-GRE	A	042	491505_LRU_ACTUATOR_RVDT_HARNESS	No corresponding technical object can be found for function identifier		   68
+CRJ1000	PK-GRE	A	042	491507_BEARING_SET_RLR_CYL	No corresponding technical object can be found for function identifier		   69
+CRJ1000	PK-GRE	A	042	491507_CASE	No corresponding technical object can be found for function identifier		   70
+CRJ1000	PK-GRE	A	042	491507_CORE_ASSY	No corresponding technical object can be found for function identifier		   71
+CRJ1000	PK-GRE	A	042	491507_DESWIRL_AXIAL	No corresponding technical object can be found for function identifier		   72
+CRJ1000	PK-GRE	A	042	491507_DIFFUSER_RADIAL_COMPRESSOR	No corresponding technical object can be found for function identifier		   73
+CRJ1000	PK-GRE	A	042	491507_GEARBOX_ASSY_RJ	No corresponding technical object can be found for function identifier		   74
+CRJ1000	PK-GRE	A	042	491507_HOUSING	No corresponding technical object can be found for function identifier		   75
+CRJ1000	PK-GRE	A	042	491507_HOUSING_ASSEMBLY	No corresponding technical object can be found for function identifier		   76
+CRJ1000	PK-GRE	A	042	491507_LLP_ROTOR_CPRSR	No corresponding technical object can be found for function identifier		   77
+CRJ1000	PK-GRE	A	042	491507_LLP_TURBINE_ROTOR_FIRST_STAGE	No corresponding technical object can be found for function identifier		   78
+CRJ1000	PK-GRE	A	042	491507_LLP_TURBINE_ROTOR_SECOND_STAGE	No corresponding technical object can be found for function identifier		   79
+CRJ1000	PK-GRE	A	042	491507_NOZZLE_ASSEMBLY	No corresponding technical object can be found for function identifier		   80
+CRJ1000	PK-GRE	A	042	491507_PRE_MACH	No corresponding technical object can be found for function identifier		   81
+CRJ1000	PK-GRE	A	042	491507_SCROLL_HSG	No corresponding technical object can be found for function identifier		   82
+CRJ1000	PK-GRE	A	042	491507_TI_64_ROUND	No corresponding technical object can be found for function identifier		   83
+CRJ1000	PK-GRE	A	042	491507_VALVE_FUEL_METERING	No corresponding technical object can be found for function identifier		   84
+CRJ1000	PK-GRE	A	042	491507_VALVE_SOLENOID_FUEL	No corresponding technical object can be found for function identifier		   85
+CRJ1000	PK-GRE	A	042	493101_LRU_FUEL_CONTROL_UNIT	No corresponding technical object can be found for function identifier		   86
+CRJ1000	PK-GRE	A	042	493104_VLV_AND_SWTCH_IMPENDING_BYPSS	No corresponding technical object can be found for function identifier		   87
+CRJ1000	PK-GRE	R	041	493151_APU	Structure gap at Functional Location PK-GRE.49.00.00.AI	WE3800770-3:99193	   59
+CRJ1000	PK-GRE	A	042	494101_LRU_IGNITION_EXCITER	No corresponding technical object can be found for function identifier		   88
+CRJ1000	PK-GRE	A	042	494107_LRU_OUTLINE_STARTER_MOTOR	No corresponding technical object can be found for function identifier		   89
+CRJ1000	PK-GRE	A	042	495105_LRU_LOAD_CONTROL_VALVE	No corresponding technical object can be found for function identifier		   90
+CRJ1000	PK-GRE	A	042	496101_LRU_ELECTRONIC_CONTROL_UNIT	No corresponding technical object can be found for function identifier		   91
+CRJ1000	PK-GRE	A	042	496111_LRU_SENSOR_P2_PRESS	No corresponding technical object can be found for function identifier		   92
+CRJ1000	PK-GRE	A	042	499101_LRU_COOLER_OUTL	No corresponding technical object can be found for function identifier		   93
+CRJ1000	PK-GRE	A	042	499110_LRU_PUMP_LUBE	No corresponding technical object can be found for function identifier		   94
+CRJ1000	PK-GRE	R	041	710000_ENG_ASSY_LR	Structure gap at Functional Location PK-GRE.71.00.00.CF.LH	CF34-8C5A1G07:99207	   21
+CRJ1000	PK-GRE	A	042	720000_BLEED_VALVE	No corresponding technical object can be found for function identifier		   62
+CRJ1000	PK-GRE	R	041	722102_LRU_FAN_BLADE	Structure gap at Equipment 12143801	4114T15P02:99207	   22
+CRJ1000	PK-GRE	R	041	722102_LRU_FAN_BLADE	Structure gap at Equipment 12143801	4114T15P02:99207	   23
+CRJ1000	PK-GRE	R	041	722102_LRU_FAN_BLADE	Structure gap at Equipment 12143801	4114T15P02:99207	   24
+CRJ1000	PK-GRE	R	041	722102_LRU_FAN_BLADE	Structure gap at Equipment 12143801	4114T15P02:99207	   25
+CRJ1000	PK-GRE	R	033	722102_LRU_FAN_BLADE	32 object(s) found below superior object 12143801. Expected quantity is 28 EA		   26
+CRJ1000	PK-GRE	A	042	732101_LRU_FADEC	No corresponding technical object can be found for function identifier		   63
+CRJ1000	PK-GRE	A	042	753001_LRU_VG_ACTUATOR_MASTER	No corresponding technical object can be found for function identifier		   64
+CRJ1000	PK-GRE	R	041	783301_TRANSCWL_ASSY_UPLH_LWRH	Structure gap at Functional Location PK-GRE.78.33.01.TU.RH.LW	CN624-2001-013:K4585	   29
+CRJ1000	PK-GRE	R	041	792109_LRU_FUEL_OIL_COOLER	Structure gap at Equipment 12143801	4119T36P03:99207	   27
+CRJ1000	PK-GRE	R	033	792109_LRU_FUEL_OIL_COOLER	2 object(s) found below superior object 12143801. Expected quantity is 1 EA		   28
